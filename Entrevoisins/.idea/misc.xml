@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ykaid/Desktop/DA -OC/Projet3/P3 initial/OpenClassrooms/Android/Entrevoisins/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/ykaid/Desktop/DA -OC/Projet3/P3 initial/OpenClassrooms/Android/Entrevoisins/app/src/main/res/drawable/ic_account.xml" value="0.1" />
+        <entry key="..\:/Users/ykaid/Desktop/DA -OC/Projet3/P3 initial/OpenClassrooms/Android/Entrevoisins/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.1" />
+        <entry key="..\:/Users/ykaid/Desktop/DA -OC/Projet3/P3 initial/OpenClassrooms/Android/Entrevoisins/app/src/main/res/drawable/ic_baseline_phone_24.xml" value="0.1" />
+        <entry key="..\:/Users/ykaid/Desktop/DA -OC/Projet3/P3 initial/OpenClassrooms/Android/Entrevoisins/app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.1" />
+        <entry key="..\:/Users/ykaid/Desktop/DA -OC/Projet3/P3 initial/OpenClassrooms/Android/Entrevoisins/app/src/main/res/drawable/ic_baseline_star_24_base.xml" value="0.1" />
+        <entry key="..\:/Users/ykaid/Desktop/DA -OC/Projet3/P3 initial/OpenClassrooms/Android/Entrevoisins/app/src/main/res/drawable/ic_baseline_star_border_1_24.xml" value="0.1" />
+        <entry key="..\:/Users/ykaid/Desktop/DA -OC/Projet3/P3 initial/OpenClassrooms/Android/Entrevoisins/app/src/main/res/drawable/ic_baseline_star_border_24.xml" value="0.1" />
+        <entry key="..\:/Users/ykaid/Desktop/DA -OC/Projet3/P3 initial/OpenClassrooms/Android/Entrevoisins/app/src/main/res/drawable/ic_delete_white_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/ykaid/Desktop/DA -OC/Projet3/P3 initial/OpenClassrooms/Android/Entrevoisins/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/ykaid/Desktop/DA -OC/Projet3/P3 initial/OpenClassrooms/Android/Entrevoisins/app/src/main/res/drawable/ic_star_border_white_24dp.xml" value="0.19114583333333332" />
+        <entry key="..\:/Users/ykaid/Desktop/DA -OC/Projet3/P3 initial/OpenClassrooms/Android/Entrevoisins/app/src/main/res/drawable/ic_star_white_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/ykaid/Desktop/DA -OC/Projet3/P3 initial/OpenClassrooms/Android/Entrevoisins/app/src/main/res/layout/activity_add_neighbour.xml" value="0.1" />
+        <entry key="..\:/Users/ykaid/Desktop/DA -OC/Projet3/P3 initial/OpenClassrooms/Android/Entrevoisins/app/src/main/res/layout/activity_detail.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/ykaid/Desktop/DA -OC/Projet3/P3 initial/OpenClassrooms/Android/Entrevoisins/app/src/main/res/layout/activity_list_neighbour.xml" value="0.1" />
+        <entry key="..\:/Users/ykaid/Desktop/DA -OC/Projet3/P3 initial/OpenClassrooms/Android/Entrevoisins/app/src/main/res/layout/fragment_blank.xml" value="0.16302083333333334" />
+        <entry key="..\:/Users/ykaid/Desktop/DA -OC/Projet3/P3 initial/OpenClassrooms/Android/Entrevoisins/app/src/main/res/layout/fragment_favoris_item.xml" value="0.16302083333333334" />
+        <entry key="..\:/Users/ykaid/Desktop/DA -OC/Projet3/P3 initial/OpenClassrooms/Android/Entrevoisins/app/src/main/res/layout/fragment_favoris_neighbour.xml" value="0.1" />
+        <entry key="..\:/Users/ykaid/Desktop/DA -OC/Projet3/P3 initial/OpenClassrooms/Android/Entrevoisins/app/src/main/res/layout/fragment_favoris_neighbour_item.xml" value="0.1" />
+        <entry key="..\:/Users/ykaid/Desktop/DA -OC/Projet3/P3 initial/OpenClassrooms/Android/Entrevoisins/app/src/main/res/layout/fragment_favouris_neighbour.xml" value="0.1" />
+        <entry key="..\:/Users/ykaid/Desktop/DA -OC/Projet3/P3 initial/OpenClassrooms/Android/Entrevoisins/app/src/main/res/layout/fragment_list_favoris_neigbour.xml" value="0.14895833333333333" />
+        <entry key="..\:/Users/ykaid/Desktop/DA -OC/Projet3/P3 initial/OpenClassrooms/Android/Entrevoisins/app/src/main/res/layout/fragment_list_neighbour.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/ykaid/Desktop/DA -OC/Projet3/P3 initial/OpenClassrooms/Android/Entrevoisins/app/src/main/res/layout/fragment_neighbour.xml" value="0.22" />
+        <entry key="..\:/Users/ykaid/Desktop/DA -OC/Projet3/P3 initial/OpenClassrooms/Android/Entrevoisins/app/src/main/res/layout/fragment_neighbour_list.xml" value="0.1" />
+        <entry key="..\:/Users/ykaid/Desktop/DA -OC/Projet3/P3 initial/OpenClassrooms/Android/Entrevoisins/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/ykaid/Desktop/DA -OC/Projet3/P3 initial/OpenClassrooms/Android/Entrevoisins/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Users/ykaid/Desktop/DA -OC/Projet3/P3_FINAL/Entrevoisins/app/src/main/res/drawable/shape.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/ykaid/Desktop/DA -OC/Projet3/P3_FINAL/Entrevoisins/app/src/main/res/layout/activity_detail.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/ykaid/Desktop/DA -OC/Projet3/P3_FINAL/Entrevoisins/app/src/main/res/layout/activity_list_neighbour.xml" value="0.1" />
+        <entry key="..\:/Users/ykaid/Desktop/DA -OC/Projet3/P3_FINAL/Entrevoisins/app/src/main/res/layout/fragment_favoris_neighbour_item.xml" value="0.1" />
+        <entry key="..\:/Users/ykaid/Desktop/DA -OC/Projet3/P3_FINAL/Entrevoisins/app/src/main/res/layout/fragment_list_favoris_neigbour.xml" value="0.1" />
+        <entry key="..\:/Users/ykaid/Desktop/DA -OC/Projet3/P3_FINAL/Entrevoisins/app/src/main/res/layout/fragment_list_neighbour.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/ykaid/Desktop/DA -OC/Projet3/P3_FINAL/Entrevoisins/app/src/main/res/layout/fragment_neighbour.xml" value="0.1" />
+        <entry key="..\:/Users/ykaid/Desktop/DA -OC/Projet3/P3_FINAL/Entrevoisins/app/src/main/res/layout/fragment_neighbour_list.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/ykaid/Desktop/DA -OC/Projet3/P3_FINI/Entrevoisins/app/src/main/res/layout/activity_add_neighbour.xml" value="0.16770833333333332" />
+        <entry key="..\:/Users/ykaid/Desktop/Entrevoisins/app/src/main/res/drawable/ic_baseline_language_24.xml" value="0.10462962962962963" />
+        <entry key="..\:/Users/ykaid/Desktop/Entrevoisins/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.10462962962962963" />
+        <entry key="..\:/Users/ykaid/Desktop/Entrevoisins/app/src/main/res/drawable/ic_baseline_phone_24.xml" value="0.10462962962962963" />
+        <entry key="..\:/Users/ykaid/Desktop/Entrevoisins/app/src/main/res/drawable/shape.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/ykaid/Desktop/Entrevoisins/app/src/main/res/layout/activity_add_neighbour.xml" value="0.13489583333333333" />
+        <entry key="..\:/Users/ykaid/Desktop/Entrevoisins/app/src/main/res/layout/activity_detail.xml" value="0.2204585537918871" />
+        <entry key="..\:/Users/ykaid/Desktop/Entrevoisins/app/src/main/res/layout/activity_list_neighbour.xml" value="0.1" />
+        <entry key="..\:/Users/ykaid/Desktop/Entrevoisins/app/src/main/res/layout/fragment_favoris_neighbour_item.xml" value="0.1" />
+        <entry key="..\:/Users/ykaid/Desktop/Entrevoisins/app/src/main/res/layout/fragment_list_favoris_neigbour.xml" value="0.1" />
+        <entry key="..\:/Users/ykaid/Desktop/Entrevoisins/app/src/main/res/layout/fragment_list_neighbour.xml" value="0.16770833333333332" />
+        <entry key="..\:/Users/ykaid/Desktop/Entrevoisins/app/src/main/res/layout/fragment_neighbour.xml" value="0.16770833333333332" />
+        <entry key="..\:/Users/ykaid/Desktop/Entrevoisins/app/src/main/res/layout/fragment_neighbour_list.xml" value="0.1" />
+        <entry key="..\:/Users/ykaid/Desktop/Entrevoisins/app/src/main/res/layout/shape.xml" value="0.15364583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
