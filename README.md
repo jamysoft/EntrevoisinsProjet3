@@ -1,5 +1,4 @@
-# EntrevoisinsProjet3
-# OpenClassrooms
+# Projet3
 
 C’est le 3éme projet de mon parcours Développeur d'application - Android chez openclassrooms: 
 « Développez une nouvelle fonctionnalité pour l'application Entrevoisins et testez-la » 
